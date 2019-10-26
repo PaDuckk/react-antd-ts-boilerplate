@@ -7,6 +7,8 @@
 
 ## Installation
 
+npm 사용합니다 yarn 사용시 `package-lock.json` 지운 후 `yarn install` 해주세요
+
 ```
 npm install
 ```
